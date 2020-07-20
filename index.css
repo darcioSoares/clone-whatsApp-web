@@ -1,0 +1,44 @@
+header, footer{
+    background-color: #eee;
+    padding: 5px;
+    min-height: 60px;
+
+}
+
+header img, .list-group img {
+    height: 50px;
+    margin-right: 10px;
+}
+
+header img {
+    margin-left: 16px;
+}
+main {
+    background-color:#e5ddd5;
+    min-height: calc(100vh - 121px);
+    /* removendo automaticamente altura
+     do header 60px e footer 60px
+     1px é da borda do header
+     */
+}
+header{
+    border-bottom: #dbdbdb 1px solid;
+}
+h6{
+    margin:0;
+}
+.timeago{
+    color:#999;
+    font-size: .8em
+
+}
+.badge-success{
+    background-color: #09d261;
+}
+#search{
+    background-color: #f8f8f8;
+    min-height: 40px;
+}
+.imgMy{
+    border-radius:50px
+}
