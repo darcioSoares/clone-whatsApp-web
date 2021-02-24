@@ -1,4 +1,4 @@
 # clone-whatsApp-web
 ### Clone do WhatsApp Web feito com Bootstrap
 
-![](/assets/whats.png)
+[click here for see](https://darciosoares.github.io/clone-whatsApp-web/)
